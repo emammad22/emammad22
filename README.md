@@ -16,6 +16,6 @@ I'm Mammadov Eltun, a passionate Junior Frontend Developer 💻.
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=emammad22&theme=dark&show_icons=true" /></p>
+<p><img align="center" style= 'text-align : 'center'' src="https://github-readme-stats.vercel.app/api?username=emammad22&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emammad22&theme=dark&layout=compact" width="410" /></p>
 
