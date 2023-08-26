@@ -2,7 +2,7 @@ I'm Mammadov Eltun, a passionate Junior Frontend Developer 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about TypeScript.
+- :seedling: I’m currently learning about Vue.js.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - 🤔 I’m looking for an internship.
 
