@@ -4,7 +4,7 @@ I'm Mammadov Eltun, a passionate Junior Frontend Developer 💻.
 
 - :seedling: I’m currently learning about TypeScript.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for an internship.
+- 🤔 I’m looking for a job.
 
 <hr>
 
